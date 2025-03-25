@@ -45,5 +45,6 @@ for (const row of rows) {
   result = result + row + "\n";
 }
 
-// Print the final pyramid to the console
+// Print the final pyramid to the console program end
+
 console.log(result);
